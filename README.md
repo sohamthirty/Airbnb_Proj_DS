@@ -2,4 +2,4 @@
 
 ## Problem Statement
 
-Predicting prices of Airbnb listings across US.
+Predicting prices of Airbnb listings across the United States of America.
